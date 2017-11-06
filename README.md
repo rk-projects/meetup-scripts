@@ -1,5 +1,11 @@
 # Meetup - API : Python implementation for fosscafe meetup 
 
+* Pip to install Meetup Api
+    + Use pip to install meetup-api .
+    + ```Python
+        pip install meetup-api
+        ```
+
 * Windows :
     +   Setup Your meetup_api_key as environment variable
     + On powershell run 
