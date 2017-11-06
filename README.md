@@ -3,7 +3,7 @@
 ### Setup/Execution Details are mentioned below.
 
 * Pip to install Meetup Api
-    + Use pip to install meetup-api .
+    + Use pip to install meetup-api
      ```Python
         pip install meetup-api
         ```
