@@ -4,7 +4,7 @@
 
 * Pip to install Meetup Api
     + Use pip to install meetup-api .
-    + ```Python
+     ```Python
         pip install meetup-api
         ```
 
