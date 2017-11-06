@@ -33,3 +33,6 @@
 * To run on Python2, change print syntax. Rest should work fine.
 * Meetup URL name is hardcoded to "fosscafe".
 
+## Method Index
+* Index for all methods is available at :  [Method Index](http://meetup-api.readthedocs.io/en/latest/meetup_api.html?highlight=limit#api-client-method-index)
+
