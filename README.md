@@ -6,7 +6,7 @@
     + Use pip to install meetup-api
      ```Python
         pip install meetup-api
-        ```
+     ```
 
 * Windows :
     +   Setup Your meetup_api_key as environment variable
