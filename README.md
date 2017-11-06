@@ -1,5 +1,7 @@
 # Meetup - API : Python implementation for fosscafe meetup 
 
+### Installation Details are mentioned below.
+
 * Pip to install Meetup Api
     + Use pip to install meetup-api .
     + ```Python
